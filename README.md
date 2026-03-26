@@ -21,7 +21,7 @@ The goal of this channel is for me to learn how to become a better software deve
 
 If you like AI to help you learn or make things, that's okay! You have the right to learn however you please! *Please don't impose your opinions onto me, even if you're trying to be sincere or helpful*. I'll learn how I want to.
 
-### Are you AI is going to take all our jobs (in tech)?
+### Are you worried AI is going to take all our jobs (in tech)?
 
 **Short answer:** 
 No.
