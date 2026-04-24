@@ -6,7 +6,7 @@
 Name       - BenStack or Ben
 Age        - 25
 Location   - Eastern Canada (EST/EDT)
-Occupation - Tier 2 IT Specialist
+Occupation - Tier 2 IT Analyst
 ```
 
 ### Why are you streaming? What are they for?
