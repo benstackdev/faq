@@ -5,7 +5,7 @@
 ```
 Name       - BenStack or Ben
 Age        - 25
-Location   - Eastern Canada (EST/EDT)
+Location   - 🇨🇦 Eastern Canada (EST/EDT)
 Occupation - Tier 2 IT Analyst
 ```
 
