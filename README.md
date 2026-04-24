@@ -33,7 +33,7 @@ There is a larger discussion to be had surrounding this topic, and maybe I'll fu
 
 ### What are you making?
 
-Check the very top of the stream description, I update it before each stream to reflect what I plan to work on for that stream.
+Use the command `!workingon` in chat or check the very top of the stream description. I update it before each stream to reflect what I plan to work on for that stream.
 
 ### What is your educational background?
 
