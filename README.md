@@ -31,6 +31,9 @@ LLMs are not human. They are just really advanced input-output machines. My opin
 
 There is a larger discussion to be had surrounding this topic, and maybe I'll fully express my opinions at a future date. I may be wrong, and you're free to completely disagree with me surrounding this topic, but again, *please don't impose your opinion on me*, thanks!  
 
+### What are your computer specs?
+I use a MacBook Pro M4 base (16GB RAM; 512 GB SSD).
+
 ### What keyboard do you use?
 I use the Nuphy Kick75. You can probably find it on Amazon in your country (that's where I got it).
 
