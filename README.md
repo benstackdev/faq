@@ -13,6 +13,10 @@ Occupation - Tier 2 IT Analyst
 
 I stream so I can hold myself accountable and document my journey learning software development. I consider it "collaborative learning in public".
 
+### What is your <insert social media name here>?
+
+All the social links that I use for BenStack can be found [here](https://benstackdev.github.io/social-links/). I don't use any other social media for BenStack, so please don't ask.
+
 ### "Why aren't you using AI? Just ask Claude bro"
 
 The goal of this channel is for me to learn how to become a better software developer. I'm against relying on AI for most things, *especially* learning. I want to learn things the hard way so the knowledge I gain actually sticks. I don't want to have to rely on AI to do everything for me. 
