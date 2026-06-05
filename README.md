@@ -15,7 +15,7 @@ I stream so I can hold myself accountable and document my journey learning softw
 
 ### What is your \<insert social media name here\>?
 
-All the social links that I use for BenStack can be found [here](https://benstackdev.github.io/social-links/). I don't use any other social media for BenStack, so please don't ask.
+All the social media that I use for BenStack can be found [here](https://benstackdev.github.io/social-links/). I don't use any other social media for BenStack, so please don't ask.
 
 ### "Why aren't you using AI? Just ask Claude bro"
 
