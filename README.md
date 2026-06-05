@@ -13,7 +13,7 @@ Occupation - Tier 2 IT Analyst
 
 I stream so I can hold myself accountable and document my journey learning software development. I consider it "collaborative learning in public".
 
-### What is your <insert social media name here>?
+### What is your \<insert social media name here\>?
 
 All the social links that I use for BenStack can be found [here](https://benstackdev.github.io/social-links/). I don't use any other social media for BenStack, so please don't ask.
 
