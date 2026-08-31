@@ -6,7 +6,7 @@
 Name       - BenStack or Ben
 Age        - 25
 Location   - 🇨🇦 Eastern Canada (EST/EDT)
-Occupation - IT (I am not a SWE)
+Occupation - IT
 ```
 
 ### Why are you streaming? What are they for?
@@ -16,10 +16,6 @@ I stream so I can hold myself accountable and document my journey learning softw
 ### When do you stream? Do you have a schedule?
 
 I generally stream 4-5 days a week. If you're curious to know exactly when, I post weekly stream schedules [in my discord server](https://discord.com/invite/jdDKUMznkT).
-
-### What is your end goal with streaming and content creation?
-
-Honestly, I don't know. Right now I'm streaming on YouTube purely as a hobby after my day job (which is 40 hours a week). All I can say right now is that I have no plans to stop streaming anytime soon.
 
 ### What is your \<insert social media name here\>?
 
@@ -43,13 +39,25 @@ LLMs are not human. They are just really advanced input-output machines. My opin
 
 There is a larger discussion to be had surrounding this topic, and maybe I'll fully express my opinions at a future date. I may be wrong, and you're free to completely disagree with me surrounding this topic, but again, *please don't impose your opinion on me*, thanks!  
 
+### What is your end goal with streaming and content creation?
+
+Honestly, I don't know. Right now I'm streaming on YouTube purely as a hobby after my day job (which is 40 hours a week). All I can say right now is that I have no plans to stop streaming anytime soon.
+
+### Do you eventually want to land a SWE or developer role?
+
+Not really, for various reasons (AI being the largest). If we were in 2021 or earlier I'd probably say yes, but after working in the tech industry for over a year, I'm really burnt out on the current corporate landscape. Eventually I want to escape it, somehow.
+
+### Why are you working in IT, what led to that? Did you want to work in IT?
+
+Nope, that's just how things turned out. An IT help desk role was the only summer internship I could land (I failed to land a junior dev internship, despite getting interviews). During that internship, I made a good impression and got a return offer nine months later. However, having now worked in IT for over a year, I can confidently say that I'm not nearly as enthusiastic about IT as I was when I started. My day job is only a means to an end to financially support myself and my family.
+
 ### What are your computer specs?
 I use a 14-inch MacBook Pro (2024 Apple Silicon M4; 16GB RAM; 512 GB SSD).
 
 ### What keyboard do you use?
 I use the Nuphy Kick75. You can probably find it on Amazon in your country (that's where I got it).
 
-### What are you making?
+### What are you doing/building on stream?
 
 Use the command `!workingon` in chat or check the very top of the stream description. I update it before each stream to reflect what I plan to work on for that stream.
 
