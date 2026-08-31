@@ -31,7 +31,7 @@ All the social media that I use for BenStack can be found [here](https://benstac
 
 ### But... learning with AI is so much faster! You'll fall behind if you don't use it
 
-I don't care.
+I don't care lol.
 
 ### Are you worried AI is going to take all our jobs (in tech)?
 
