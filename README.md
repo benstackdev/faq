@@ -63,7 +63,7 @@ Use the command `!workingon` in chat or check the very top of the stream descrip
 
 ### What is your educational background?
 
-I have a BASc in Computer Science (class of '25) and a BSc in Biology (class of '23). I don't use my biology degree much anymore but I'd love to incorporate it into the work that I do someday.
+I have a BASc in Computer Science (class of '25) and a BSc in Biology (class of '23). I don't use my biology degree much any more but I'd love to incorporate it into the work that I do someday.
 
 ### How long have you been coding for?
 
