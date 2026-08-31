@@ -6,24 +6,32 @@
 Name       - BenStack or Ben
 Age        - 25
 Location   - 🇨🇦 Eastern Canada (EST/EDT)
-Occupation - Tier 2 IT Analyst
+Occupation - IT (I am not a SWE)
 ```
 
 ### Why are you streaming? What are they for?
 
 I stream so I can hold myself accountable and document my journey learning software development. I consider it "collaborative learning in public".
 
+### When do you stream? Do you have a schedule?
+
+I generally stream 4-5 days a week. If you're curious to know exactly when, I post weekly stream schedules [in my discord server](https://discord.com/invite/jdDKUMznkT).
+
+### What is your end goal with streaming and content creation?
+
+Honestly, I don't know. Right now I'm streaming on YouTube purely as a hobby after my day job (which is 40 hours a week). All I can say right now is that I have no plans to stop streaming anytime soon.
+
 ### What is your \<insert social media name here\>?
 
 All the social media that I use for BenStack can be found [here](https://benstackdev.github.io/social-links/). I don't use any other social media for BenStack, so please don't ask.
 
-### "Why aren't you using AI? Just ask Claude bro"
+### Why don't you use AI?
 
-The goal of this channel is for me to learn how to become a better software developer. I'm against relying on AI for most things, *especially* learning. I want to learn things the hard way so the knowledge I gain actually sticks. I don't want to have to rely on AI to do everything for me. 
+1) Learning software development with AI (even by using it as a "teacher") defeats the point of learning *for me*. I know some people really enjoy employing AI to help them learn, but I don't.
+2) I don't think AI isn't fun or enjoyable to use. I would rather struggle through problems and read docs/take tips from chat instead.
+3) AI is too expensive. Not only can I not afford flagship AI models (living paycheque to paycheque right now), but I also don't want to directly support AI companies in any way, shape, or form.
 
-*I want to deeply understand the technologies I'm learning so I can be a good software developer.*
-
-If you like AI to help you learn or make things, that's okay! You have the right to learn however you please! *Please don't impose your opinions onto me, even if you're trying to be sincere or helpful*. I'll learn how I want to.
+*Please don't impose your opinions onto me, even if you're trying to be sincere or helpful*. I'll learn how I want, thanks :)
 
 ### Are you worried AI is going to take all our jobs (in tech)?
 
@@ -31,7 +39,7 @@ If you like AI to help you learn or make things, that's okay! You have the right
 No.
 
 **Longer answer:** 
-LLMs are not human. They are just really advanced input-output machines. My opinion is that without a human conscious will, LLMs cannot *fully* replace humans in tech; there will always be gaps the LLM misses. Expert or senior-level technical professionals will still be needed, for I'd assume a while. These people will be there to spot these gaps and guide LLMs in the right direction (i.e., effectively harnessing their power as a tool). I'd say programmers in the future (say, within the next 10-15 years) will be sort of like pilots: autopilot does 80-90% of the work (or more), but if the autopilot system breaks, real pilots need to be there to step in and take full control of the airplane.
+LLMs are not human. They are just really advanced input-output machines. My opinion is that without a human conscious will, LLMs will not *fully* replace humans in tech; there will always be gaps. Expert or senior-level technical professionals will still be needed, indefinitely as far as I can tell (though I'm open to being proven otherwise). These people will be there to spot these gaps and guide LLMs in the right direction (i.e., effectively harnessing their power as a tool). I'd say programmers in the future (say, within the next 10-15 years) will be sort of like pilots: autopilot does 80-90% of the work (or more), but if the autopilot system breaks, real pilots need to be there to step in and take full control of the airplane.
 
 There is a larger discussion to be had surrounding this topic, and maybe I'll fully express my opinions at a future date. I may be wrong, and you're free to completely disagree with me surrounding this topic, but again, *please don't impose your opinion on me*, thanks!  
 
@@ -51,7 +59,7 @@ I have a BASc in Computer Science (class of '25) and a BSc in Biology (class of 
 
 ### How long have you been coding for?
 
-I taught myself the basics of programming when I was quite young about 15 years ago, but I never learned seriously at all until 2023. Since then, I've learned quite a bit of CS theory, however, I still possess very few practical skills (e.g., actually building projects). I started this channel in January 2026 to hold myself accountable and document my journey of learning web development from scratch.
+I taught myself the basics of programming when I was quite young about 15 years ago, but I didn't take it seriously until 2023. Since then, I've learned quite a bit of CS theory, however, I still possess very few practical skills (e.g., actually building projects). I started BenStack in January 2026 to hold myself accountable and document my journey of learning software development from scratch.
 
 ### Why learn web dev and not another kind of software development?
 
