@@ -49,7 +49,7 @@ Not really, for various reasons (AI being the largest). If we were in 2021 or ea
 
 ### Why are you working in IT, what led to that? Did you want to work in IT?
 
-Nope, that's just how things turned out. An IT help desk role was the only summer internship I could land (I failed to land a junior dev internship, despite getting interviews). During that internship, I made a good impression and got a return offer. However, having now worked in IT for over a year, I can confidently say that I'm not nearly as enthusiastic about IT as I was when I started. My day job is only a means to an end to financially support myself and my family.
+Nope, that's just how things turned out. An IT help desk role was the only summer internship I could land (I failed to land a junior dev internship, despite getting interviews). During that internship, I made a good impression and got a return offer. However, having now worked in IT for over a year, I can confidently say that I'm not nearly as enthusiastic about it compared to when I started. My day job is only a means to an end to financially support myself and my family.
 
 ### What are your computer specs?
 I use a 14-inch MacBook Pro (2024 Apple Silicon M4; 16GB RAM; 512 GB SSD).
