@@ -37,7 +37,7 @@ Not really, for various reasons (AI being the largest). If we were in 2021 or ea
 Nope, that's just how things turned out. An IT help desk role was the only summer internship I could land (I failed to land a junior dev internship, despite getting interviews). During that internship, I made a good impression and got a return offer. However, having now worked in IT for over a year, I can confidently say that I'm not nearly as enthusiastic about it compared to when I started. My day job is only a means to an end to financially support myself and my family.
 
 ### How long have you been coding for?
-I taught myself the basics of programming when I was quite young about 15 years ago, but I didn't take it seriously until 2023. Since then, I've learned quite a bit of CS theory, however, I still possess very few practical skills (e.g., actually building projects). I started BenStack in January 2026 to hold myself accountable and document my journey of learning software development from scratch.
+I taught myself the basics of programming when I was quite young about 15 years ago, but I didn't take it seriously until 2023. Since then, I've learned quite a bit of CS theory, however, I possess few practical skills (I'm getting there, slowly). I started BenStack in January 2026 to hold myself accountable and document my journey of learning software development from scratch.
 
 ### Why learn web dev and not another kind of software development?
 I feel like web development is a great spot to start for learning industry-relevant technologies. It gives me a good foundation of knowledge that I can use to expand upon when the time comes. Not to mention there are still more jobs requiring web development skills than any other kind of software development (I think).
@@ -69,7 +69,7 @@ There is a larger discussion to be had surrounding this topic, and maybe I'll fu
 I use [Obsidian](https://obsidian.md/). There's a free tier that I use.
 
 ### What do you use to manage your projects?
-I use this [Kanban plugin](https://community.obsidian.md/plugins/obsidian-kanban) for Obsidian. The template I use for my Kanban boards can be found in this repo (see `Project Planning Template.md`).
+I use [this Kanban plugin](https://community.obsidian.md/plugins/obsidian-kanban) for Obsidian. The template I use for my Kanban boards can be found in this repo (see `Project Planning Template.md`).
 
 ### What are your computer specs?
 I use a 14-inch MacBook Pro (2024 Apple Silicon M4; 16GB RAM; 512 GB SSD).
