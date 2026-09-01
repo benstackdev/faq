@@ -26,8 +26,7 @@ Honestly, I don't know. Right now I'm streaming on YouTube purely as a hobby aft
 Use the command `!workingon` in chat or check the very top of the stream description. I update it before each stream to reflect what I plan to work on for that stream.
 
 ### How do you stay motivated to keep streaming?
-
-You do. You all push me to continue in the best way, and I am genuinely looking forward to seeing our community continue to grow into something really awesome. Generally speaking though, I think having a strong accountability network is critical to consistency, whether it's for school, a hobby, etc. That's mostly why I started streaming in the first place.
+My motivation is fuelled directly by you. You all motivate me to continue and push forward. I genuinely look forward to seeing our community continue to grow into something really awesome. Generally speaking though, I think having a strong accountability network is critical to consistency, whether it's for school, a hobby, etc. That's mostly why I started streaming in the first place.
 
 ## Life and Education
 
