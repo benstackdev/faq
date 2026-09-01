@@ -55,10 +55,20 @@ Not really, for various reasons (AI being the largest). If we were in 2021 or ea
 
 Nope, that's just how things turned out. An IT help desk role was the only summer internship I could land (I failed to land a junior dev internship, despite getting interviews). During that internship, I made a good impression and got a return offer. However, having now worked in IT for over a year, I can confidently say that I'm not nearly as enthusiastic about it compared to when I started. My day job is only a means to an end to financially support myself and my family.
 
+### What note taking app do you use?
+
+I use [Obsidian](https://obsidian.md/). There's a free tier that I use.
+
+### What do you use to manage your projects?
+
+I use this [Kanban plugin](https://community.obsidian.md/plugins/obsidian-kanban) for Obsidian. The template I use for my Kanban boards can be found in this repo (see `Project Planning Template.md`).
+
 ### What are your computer specs?
+
 I use a 14-inch MacBook Pro (2024 Apple Silicon M4; 16GB RAM; 512 GB SSD).
 
 ### What keyboard do you use?
+
 I use the Nuphy Kick75. You can probably find it on Amazon in your country (that's where I got it).
 
 ### What are you doing/building on stream?
