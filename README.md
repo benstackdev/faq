@@ -1,6 +1,6 @@
 # FAQ
 
-## General information
+## General Information
 ```
 Name       - BenStack or Ben
 Age        - 25
