@@ -47,7 +47,7 @@ I feel like web development is a great spot to start for learning industry-relev
 ### Why don't you use AI?
 1) Learning software development with AI (even by using it as a "teacher") defeats the point of learning *for me*. I know some people really enjoy employing AI to help them learn, but I don't.
 2) I don't think AI isn't fun or enjoyable to use. I would rather struggle through problems and read docs/take tips from chat instead.
-3) AI is too expensive. Not only can I not afford the latest flagship AI models (we can just barely make ends meet), but I also don't want to directly support AI companies in any way, shape, or form.
+3) AI is too expensive. Not only can I not afford the latest flagship AI models (I'm kinda broke), but I also don't want to directly support AI companies in any way, shape, or form.
 
 *Please don't impose your opinions onto me, even if you're trying to be sincere or helpful*. I'll learn how I want, thanks :)
 
