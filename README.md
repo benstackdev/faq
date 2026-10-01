@@ -49,13 +49,16 @@ I feel like web development is a great spot to start for learning industry-relev
 
 ### Why don't you use AI?
 1) Learning software development with AI (even by using it as a "teacher") defeats the point of learning *for me*. I know some people really enjoy employing AI to help them learn, but I don't.
-2) I don't think AI isn't fun or enjoyable to use. I would rather struggle through problems and read docs/take tips from chat instead.
+2) I don't think AI is fun or enjoyable to use. I would rather struggle through problems and read docs/take tips from chat instead.
 3) AI is too expensive. Not only can I not afford the latest flagship AI models (I'm kinda broke), but I also don't want to directly support AI companies in any way, shape, or form.
 
 *Please don't impose your opinions onto me, even if you're trying to be sincere or helpful*. I'll learn how I want, thanks :)
 
 ### But... learning with AI is so much faster! You'll fall behind if you don't use it
-I don't care lol.
+Your concerns are not my concerns :)
+
+### Will you ever try using AI or could you ever see yourself using it?
+For a while my answer would've been a hard no, but as this community has grown, my opinion has changed a bit. I still don't think I'll ever use it in a large capacity, but as a supercharged Google or something (never to generate code or give me spoon-fed answers). Don't ask when I'll start because I don't know and I currently don't have plans to start. I'm just saying I *probably will* experiment with it at some point.
 
 ### Are you worried AI is going to take all our jobs (in tech)?
 **Short answer:** 
@@ -77,5 +80,14 @@ I use [this Kanban plugin](https://community.obsidian.md/plugins/obsidian-kanban
 ### What are your computer specs?
 I use a 14-inch MacBook Pro (2024 Apple Silicon M4; 16GB RAM; 512 GB SSD).
 
+### Mic and webcam?
+I use the default mic and webcam built into my laptop, which are *fine*. Maybe someday I'll upgrade if/when I can afford to.
+
 ### What keyboard do you use?
 I use the Nuphy Kick75. You can probably find it on Amazon in your country (that's where I got it).
+
+### What about your monitor, mouse, etc.?
+- My monitor is an old 27" 2K Acer monitor; no I don't know the model.
+- My mouse is a random Logitech mouse. I also don't know the model and it doesn't matter to me because it works just fine.
+- My chair was gifted to me several years ago. I guarantee you any random gaming/office desk chair is probably just as good if not better than what I'm using right now.
+- My desk is the cheapest Flexispot I could find on Amazon. I like standing up sometimes, especially during my day job.
