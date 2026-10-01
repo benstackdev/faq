@@ -17,10 +17,10 @@ I stream so I can hold myself accountable and document my journey learning softw
 I generally stream 4-5 days a week. If you're curious to know exactly when, I post weekly stream schedules [in my discord server](https://discord.com/invite/jdDKUMznkT).
 
 ### What is your \<insert social media name here\>?
-All the social media that I use for BenStack can be found [here](https://benstackdev.github.io/social-links/). I don't use any other social media for BenStack, so please don't ask.
+All the social media that I use for BenStack can be found [here](https://benstackdev.github.io/social-links/). I don't use any other social media for BenStack (no Instagram, LinkedIn, etc.), so please don't ask.
 
 ### What is your end goal with streaming and content creation?
-Honestly, I don't know. Right now I'm streaming on YouTube purely as a hobby after my day job (which is 40 hours a week). All I can say right now is that I have no plans to stop streaming anytime soon.
+Honestly, I don't know. I stream purely as a hobby after my day job (which is 40 hours a week). All I can say right now is that I have no plans to stop anytime soon.
 
 ### What are you doing/building on stream?
 Use the command `!workingon` in chat or check the very top of the stream description. I update it before each stream to reflect what I plan to work on for that stream.
@@ -31,16 +31,16 @@ My motivation is fuelled directly by you. You all motivate me to continue and pu
 ## Life and Education
 
 ### What is your educational background?
-I have a BASc in Computer Science (class of 2025) and a BSc in Biology (class of 2023). I don't use my biology degree much any more but I'd love to incorporate it into the work that I do someday.
+I have a BASc in Computer Science (class of 2025) and a BSc in Biology (class of 2023). I don't use my biology degree much any more but I'd love to incorporate it into the work that I do someday. I will not share exactly where I studied for my own privacy, but the school I attended is an accredited Canadian university.
 
 ### Do you eventually want to land a SWE or developer role?
-Not really, for various reasons (AI being the largest). If we were in 2021 or earlier I'd probably say yes, but after working in the tech industry for over a year, I'm really burnt out on the current corporate landscape. Eventually I want to escape it, somehow.
+Not really, for various reasons (industrial AI usage being the largest). If we were in 2021 or earlier I'd probably say yes, but after working in the tech industry for over a year, I'm reeeeally burnt out on the current corporate landscape. Eventually I want to escape it, somehow. Maybe with BenStack? I don't know.
 
 ### Why are you working in IT, what led to that? Did you want to work in IT?
 Nope, that's just how things turned out. An IT help desk role was the only summer internship I could land (I failed to land a junior dev internship, despite getting interviews). During that internship, I made a good impression and got a return offer. However, having now worked in IT for over a year, I can confidently say that I'm not nearly as enthusiastic about it compared to when I started. My day job is only a means to an end to financially support myself and my family.
 
 ### How long have you been coding for?
-I taught myself the basics of programming when I was quite young about 15 years ago, but I didn't take it seriously until 2023. Since then, I've learned quite a bit of CS theory, however, I possess few practical skills (I'm getting there, slowly). I started BenStack in January 2026 to hold myself accountable and document my journey of learning software development from scratch.
+I taught myself the basics of programming when I was quite young around 15 years ago, but I didn't take it seriously until 2023. Since then, I've learned quite a bit of CS theory, however, I possess few practical skills (but I'm getting there, slowly). I started the BenStack channel in January 2026 to hold myself accountable and document my journey of learning software development from (almost) scratch.
 
 ### Why learn web dev and not another kind of software development?
 I feel like web development is a great spot to start for learning industry-relevant technologies. It gives me a good foundation of knowledge that I can use to expand upon when the time comes. Not to mention there are still more jobs requiring web development skills than any other kind of software development (I think).
